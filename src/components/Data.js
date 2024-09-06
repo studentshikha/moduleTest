@@ -44,7 +44,7 @@ getData();
           
            <button 
            onClick={sortByMarketCap}
-           className="border-2  border-gray-500 p-2 ">Sort By Market Cap
+           className="border-2 border-gray-500 p-2 ">Sort By Market Cap
            </button>
 
             <button 
